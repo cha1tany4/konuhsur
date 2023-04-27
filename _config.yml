@@ -1,2 +1,7 @@
 timezone: Asia/Kolkata
 permalink: /:year/:month/:slug/
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
